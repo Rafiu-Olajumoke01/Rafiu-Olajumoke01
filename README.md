@@ -5,7 +5,7 @@
 I love building products that solve **real-world problems**. Currently, I’m focused on **frontend perfection** with React/Next.js and Tailwind, while also growing into a strong **Node.js backend developer**.  
 
 💡 I’ve interned at **Vault Software Company** and trained at **Lagos School of Programming**.  
-🚀 Now, I’m building **CodeHaven**, a programming school and startup, to train and inspire the next generation of African developers.  
+
 
 ---
 
