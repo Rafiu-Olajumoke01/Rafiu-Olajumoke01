@@ -1,9 +1,10 @@
 # Hi, I'm Jummy 👋
 
 **Backend-heavy Software Engineer** · Python · Django · Celery · Redis · PostgreSQL · REST APIs
+**Full-stack capable** · Next.js · React · Tailwind CSS
 Author of *Django Through Stories* · Founder @ CodeHaven · Runs Lagos Tech Institute · Lagos, Nigeria 🇳🇬
 
-I design and build backend systems: multi-tenant platforms, APIs, payment flows, background jobs and real-time features. I understand Django well enough to teach it, and I care about clean architecture, data isolation, tests, and software that keeps working after the demo.
+I design and build backend systems: multi-tenant platforms, APIs, payment flows, background jobs and real-time features. I understand Django well enough to teach it, and I care about clean architecture, data isolation, tests, and software that keeps working after the demo. I can also take a product end to end: I build the frontend in Next.js, React and Tailwind CSS, so I can ship a complete feature from database to screen.
 
 📫 **rafiuolajumoke7@gmail.com**
 
@@ -60,7 +61,7 @@ I run Lagos Tech Institute, where I teach and mentor people learning to code.
 **Backend:** Python · Django · Django REST Framework · Celery · Redis · WebSockets · JWT / token auth
 **Data:** PostgreSQL · MariaDB/MySQL
 **Infra & tooling:** Docker · GitHub Actions · Git · Linux · cPanel/Passenger deployments
-**Frontend (when the product needs it):** Next.js · React · Tailwind CSS
+**Frontend:** Next.js · React · JavaScript · Tailwind CSS · HTML5 · CSS3 · responsive, role-based dashboards
 
 ---
 
