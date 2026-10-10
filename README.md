@@ -15,7 +15,7 @@ I design and build backend systems: multi-tenant platforms, APIs, payment flows,
 ### Signal Watch — [`signal-watch`](https://github.com/Rafiu-Olajumoke01/signal-watch)
 A backend intelligence system that watches public information sources, turns messy signals into structured events, detects meaningful change, connects related events, and alerts an organization when something important is emerging.
 
-`Python` `Django` `Celery` `Redis` `PostgreSQL` `Docker` `GitHub Actions`
+`Python` `Django` `Celery` `Redis` 
 
 ---
 
