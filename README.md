@@ -15,7 +15,12 @@ I design and build backend systems: multi-tenant platforms, APIs, payment flows,
 ### Signal Watch — [`signal-watch`](https://github.com/Rafiu-Olajumoke01/signal-watch)
 A backend intelligence system that watches public information sources, turns messy signals into structured events, detects meaningful change, connects related events, and alerts an organization when something important is emerging.
 
-`Python` `Django` `Celery` `Redis` 
+`Python` `Django` `Celery` `Redis`
+
+### Agritech — [`agritech-backend`](https://github.com/Rafiu-Olajumoke01/agritech-backend)
+An SMS-based farmer marketplace (in development). Farmers in low-connectivity areas list produce by text message, and a Django webhook receives, parses, and validates it, then creates the listing.
+
+`Python` `Django` `Django REST Framework`
 
 ---
 
@@ -77,7 +82,7 @@ I run Lagos Tech Institute, where I teach and mentor people learning to code.
 
 ## 🎓 Background
 
-Trained at Lagos School of Programming, where I graduated as one of the top students, then went on to build the school's own production platform. Interned at Vault Software Company.
+Trained at Lagos School of Programming, where I graduated in 2024 as one of the top students, then went on to build the school's own production platform. I joined Vault Software Company as an intern, was promoted to Junior Developer, and work there today. In 2025 I also worked remotely as a contract backend developer on a fintech platform for Nomoarh in Saudi Arabia.
 
 ---
 
